@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: c5lcbvf6f-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/c5lcbvf6f-java-quarkus-gitops
